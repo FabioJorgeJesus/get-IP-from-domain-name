@@ -1,9 +1,9 @@
-# ping-sweep
-basic ping sweep bash script of an IP range
+# get-domain name
+basic bash script to get an IP address from a domain name
 
 My name is Fabio Jesus. I am actually a new developer. This is my first script on Github and i really hope to bring you more.
 
-The Ping Sweep is basicaly a simple bash script for execute an ICMP protocol on a single IP´s range. Be free to edit and make any code change for your convenience.
+This is just a simple bash script for execute a simple code to get an ip from a domain name ex: www.google.com. Be free to edit and make any code change for your convenience.
 
 On this script you will find:
 . a for loop
